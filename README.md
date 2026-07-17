@@ -23,7 +23,7 @@ Estou aprendendo SQL do zero, acompanhando as aulas do Teo Me Why, como parte da
 - [x] Estatísticas (MIN, MAX, AVG...)
 - [ ] JOINs
 - [ ] Subqueries
-- [ ] GROUP BY / HAVING
+- [X] GROUP BY / HAVING
 - [ ] Views
 - [ ] (continua conforme o curso avança...)
 ## 🛠️ Ferramentas
@@ -32,4 +32,4 @@ Estou aprendendo SQL do zero, acompanhando as aulas do Teo Me Why, como parte da
 - Arquivos `.sql` com exercícios comentados
 ## 🔗 Curso
  
-[Teo Me Why - YouTube](https://www.youtube.com/@teomewhy)
+[Teo Me Why - YouTube](https://www.youtube.com/watch?v=VmkJG8awKqM&list=PLvlkVRRKOYFRo651oD0JptVqfQGDvMi3j)
